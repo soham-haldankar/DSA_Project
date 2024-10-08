@@ -19,7 +19,7 @@ This highly multidisciplinary approach combines abstract Mathematics, Linear Alg
 
 ## Conclusions and Scope
 
-The project provides strongly motivating introduction to intermediate level programming and Scientic programming required in Computational Physics along with Mathematics of Graphs.
+The project provides strongly motivating introduction to intermediate level programming and Scientific programming required in Computational Physics along with Mathematics of Graphs.
 
 It also demonstrates the algorthims used in much more efficient and broad Simulating softwares like the **SPICE**(Simulation Program with Integrated Circuit Emphasis). It focuses on complex mathematical calculations using graph algorithms. The idea could be used for fluid flow analysis using analogy between electric and hydraulic circuits
 
